@@ -1,7 +1,7 @@
 {
   "name": "pds-uk/svg-inline-cache-manager",
   "description": "A WordPress plugin that optimises the get_attached_file function for remote SVGs by caching them locally.",
-  "type": "wordpress-plugin",
+  "type": "wordpress-muplugin",
   "keywords": ["svg", "cache", "get_attached_file"],
   "homepage": "https://printdatasolutions.co.uk",
   "license": "GPL-2.0-or-later",
