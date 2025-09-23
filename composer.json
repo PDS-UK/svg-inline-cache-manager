@@ -18,7 +18,7 @@
   "extra": {
     "installer-name": "svg-inline-cache-manager",
     "installer-paths": {
-      "wp-content/plugins/{$name}/": ["type:wordpress-plugin"]
+      "wp-content/mu-plugins/{$name}/": ["type:wordpress-muplugin"]
     }
   },
   "autoload": {
